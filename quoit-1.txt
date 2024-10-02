@@ -1,0 +1,6 @@
+<html>
+<body bgcolor="yellow"><center>
+<font size="6" color="red">Hellow Guys Welcome to our website.</font>
+<b><u><font color="white"><marquee behavior="alternate" height="24" loop="14" bgcolor="red">THE HTML WEBINAR</font></marquee>
+</body>
+<html>
