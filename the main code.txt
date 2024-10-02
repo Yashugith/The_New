@@ -1,0 +1,85 @@
+<html>
+<head>
+<title>www.web development</title></head>
+<body><center>
+<h1><u><font face="Time new Romans" color="brown">Topology</u></font></h1><br></center>
+<b><h2><u>Introduction</u></h2></b>
+<i>It means Arrange computer in a network , there are many ways to arrange the computer</i><br>
+<strong><b><u><h3>Types Of Topology</h3></u></b></strong>
+<ol type="i">
+<li>Bus topology</li>
+<li>star topology</li>
+<li>ring topology</li>
+<li>mesh topology</li>
+<li>hybrid topology</li></ol>
+<strong><b><u>Bus Topology</u></b></strong><br>
+There will be a communication cable. All computers are connected to that cable. The bus topology diagram is shown below, Where there is a communication cable and the computers are connected to that cable<br><br><center>
+<img src="B:\Screenshots 1\Screenshot 2024-09-29 201735.png" width="150" height="150"></img></center><br>
+<center>
+<table border="2">
+<tr>
+<td><b>disadvantage</b></td>
+<td><b>Advantage</b></td>
+</tr>
+<tr>
+<td>collision</td>
+<td>installation is easy</td>
+</tr>
+<tr>
+<td>signal strength will be low</td>
+<td>less expensive</td>
+</tr>
+<tr>
+<td>no security</td>
+<td>Reconfiguration is easy</td>
+</tr><br></table></center><br></table>
+<b>star topology</b><br>
+Here there will be a centralized devices , where all system is connected to that device.<br>
+It may:
+<ol type="I"><li>switch</li>
+<li>router</li></ol><abbr title="star topology"><sup>swith</abbr></sup><sub>router</sub><br>
+The reference link for the given information is in the following. <a href="https://youtu.be/4rklNuxXI28?si=CtZ0S93GE-gG0qKE" target="new"><input type="button" value="click here"></a><br><br>
+<marquee behavior="alternate" bgcolor="red" height="20" loop="6"><font color="white">CANDIDATE INFORMATEION</font></marquee><br><br>
+<b><u>Fill out the information given below</u></b><br><br>
+Enter the name:<input type="text" placeholder="enter here" maxlength="12"><br><br>
+Enter the password:<input type="password" placeholder="enter the password" maxlength="12"><br><br>
+Gender:<br>
+<input type="radio" name="Gender">male</br>
+<input type="radio" name="Gender">Female</br><br>
+<u>Feedback</u>
+<br><textarea rows="3" cols="12"></textarea><br><br>
+Select the cource you prefer.
+<select size="1">
+<option>c</option>
+<option>c++</option>
+<option>java</option>
+<option>python</option>
+<option>dsa</option></select><br><br>
+Upload the file:<input type="file" accept=" "><br><br>
+<audio controls>
+<source src=" " type="audio/mpeg"></audio><br><br><br>
+<video controls width="200" height="200">
+<source src="B:\realme\VID20230824132027.mp4" type="video/mp4">
+</video><br><br><br><br>
+Refer the pdf to learn more:<br><br>
+<embed src="B:\AIML notes\4th sem\MLE\QB_AA[1].pdf" type="application/pdf"></embed><br>
+<div>Enter the time:<input type="time" name=""></div><br>
+<div>Enter your date:<input type="date" name=""></div><br>
+<div>Enter your email:<input type="email" name="" placeholder="enter the mail"></div><br>
+<div>Enter the number:<input type="number" placeholder="enter the <div>digit" min="1" max="15"></div><br>
+<div>Fill URL:<input type="url" name=""></div><br><br>
+<input type="Reset" value="Reset"><br><br>
+<input type="submit" value="submit">
+<input type="text" list="search">
+<datalist id="search">
+<option>asdfg</option>
+<option>tyuio</option>
+<option>tyuiii</option>
+<option>uhnj</option>
+<h1 style="background-color:"
+</body>
+</html>
+-------------------end-----------------------
+
+
+
