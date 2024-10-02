@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/Yashugith/The_New/refs/heads/main/businessman-holding-light-bulb-creative-connection-futuristic-technology-internet-network-polygons-collect-innovative-new-ideas-275461918.webp)
 <h1 align="center">Hi 👋, I'm yashaswini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
