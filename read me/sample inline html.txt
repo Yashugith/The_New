@@ -1,0 +1,28 @@
+<html>
+<head>
+<style>
+body {background:rgb(0,0,0) url("B:\\Screenshots 1\\eco_system.png") no-repeat fixed right}
+h2 {color:#876543}
+#p {background-color:green;
+        color:yellow}
+.h4 {background-color:blue;
+         color:white}
+* {color:red;
+          text-align:center}
+.dotted {border-style:groove;
+         border-width:10px;
+         border-color:yellow;
+         border-radius:25px}
+</style>
+<body><center>
+<h1><b>welcome</b></h1></center>
+<p><h2>the page is filled with the random colors</h2></p>
+<h3 id="p">it is a sample of the id based selector in the css</h3>
+<h4 class="h4">it is a sample of the id based selector in the css</h4>
+<p> the sheet is filled with the light</p>
+<h1>the salary got hike</h1>
+<h4 class="h4">now the time comes</h4>
+<h3 id="p">and the date is announced</h3>
+<p class="dotted">and the date is announced now the time comes it is a sample of the id based selector in the css</p>
+</body>
+</html>
